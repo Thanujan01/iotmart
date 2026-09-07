@@ -286,9 +286,9 @@ function ProductView({ product }) {
               href={waLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center justify-center gap-1.5 rounded-xl border border-circuit-200 px-6 py-3 text-sm font-semibold text-circuit-800 transition-colors hover:border-circuit-400 hover:bg-circuit-50"
+              className="flex items-center justify-center gap-1.5 rounded-xl bg-green-700 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-green-800"
             >
-              <MessageCircle className="h-4 w-4 text-green-700" /> Buy on WhatsApp
+              <MessageCircle className="h-4 w-4" /> Buy on WhatsApp
             </a>
           </div>
         </div>
