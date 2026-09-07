@@ -288,7 +288,7 @@ function ProductView({ product }) {
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-1.5 rounded-xl border border-circuit-200 px-6 py-3 text-sm font-semibold text-circuit-800 transition-colors hover:border-circuit-400 hover:bg-circuit-50"
             >
-              <MessageCircle className="h-4 w-4 text-led-600" /> Buy on WhatsApp
+              <MessageCircle className="h-4 w-4 text-green-700" /> Buy on WhatsApp
             </a>
           </div>
         </div>

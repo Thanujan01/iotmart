@@ -168,7 +168,7 @@ export default function CartDrawer({ open, onClose }) {
                 </div>
                 <button
                   onClick={handleCheckout}
-                  className="mt-4 w-full rounded-xl bg-led-500 py-3 text-sm font-semibold text-white transition-colors hover:bg-led-600"
+                  className="mt-4 w-full rounded-xl bg-green-700 py-3 text-sm font-semibold text-white transition-colors hover:bg-green-800"
                 >
                   Buy via WhatsApp
                 </button>
