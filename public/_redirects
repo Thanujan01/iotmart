@@ -1,0 +1,4 @@
+# SPA fallback: let React Router handle client-side routes so a hard
+# refresh or direct visit to /product/IM1000, /categories, etc. serves
+# index.html instead of a Netlify 404.
+/*  /index.html  200
